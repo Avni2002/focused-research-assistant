@@ -44,3 +44,11 @@ A smart, desktop-based research productivity tool that helps you:
    ```bash
    git clone https://github.com/YOUR_USERNAME/focused-research-assistant.git
    cd focused-research-assistant
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3.Run the app:
+   ```bash
+   python main.py
